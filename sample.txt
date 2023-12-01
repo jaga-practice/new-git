@@ -1,0 +1,3 @@
+Hi. this is jagadeesh
+i am writing this to practice git commands
+Furthermore i will write in to this file some content and check it and update results here
